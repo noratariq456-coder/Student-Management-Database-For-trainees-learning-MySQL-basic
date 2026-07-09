@@ -36,11 +36,6 @@ This project is a training center database built using MySQL. It manages student
 1. Open the SQL file in MySQL Workbench.
 2. Run the script from the beginning.
 3. The database and all tables will be created automatically.
-
 ## Author
-
 **Norah Tariq**
 
-Computer Science Student
-
-Shaqra University
