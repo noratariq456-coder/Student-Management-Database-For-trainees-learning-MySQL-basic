@@ -415,17 +415,7 @@ SELECT
     COUNT(*) AS total_courses
 FROM courses
 GROUP BY category WITH ROLLUP;
--- Create a stored procedure to display all students
-DELIMITER $$
-CREATE PROCEDURE ShowStudents()
-BEGIN
-    SELECT *
-    FROM students;
-END $$
 
-DELIMITER ;
--- Execute the stored procedure
-CALL ShowStudents();
 
    -- Display all records from the view
 SELECT *
