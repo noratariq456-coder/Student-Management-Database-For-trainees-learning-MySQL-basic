@@ -1,0 +1,1 @@
+# Student-Management-Database-For-trainees-learning-MySQL-basic
