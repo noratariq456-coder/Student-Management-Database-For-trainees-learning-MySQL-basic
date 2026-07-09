@@ -1,10 +1,10 @@
-#  Training Center Database
+# Training Center Database Management System
 
 ## About
 
-This project is a training center database built using MySQL. It manages students, instructors, courses, and enrollments. The main goal of this project is to apply the SQL concepts that I learned during the Database course.
+This project was created for my Database course using MySQL. It is a simple training center database that manages students, instructors, courses, and enrollments. Throughout this project, I applied the SQL concepts I learned during the semester, including table creation, relationships, CRUD operations, functions, joins, views, and other SQL features.
 
-## What I Used
+## Tools
 
 - MySQL
 - MySQL Workbench
@@ -36,6 +36,8 @@ This project is a training center database built using MySQL. It manages student
 1. Open the SQL file in MySQL Workbench.
 2. Run the script from the beginning.
 3. The database and all tables will be created automatically.
+
 ## Author
 **Norah Tariq**
 
+Shaqra University
