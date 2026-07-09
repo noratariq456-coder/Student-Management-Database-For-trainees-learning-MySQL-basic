@@ -39,5 +39,3 @@ This project was created for my Database course using MySQL. It is a simple trai
 
 ## Author
 **Norah Tariq**
-
-Shaqra University
